@@ -1,0 +1,20 @@
+﻿  main.c
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(20,13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(20,13): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(20,13): message : 缺失的可变参数 2 为格式字符串“%c”所需
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(20,13): message : 此参数用作缓冲区大小
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(30,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(30,17): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(30,17): message : 缺失的可变参数 2 为格式字符串“%c”所需
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(30,17): message : 此参数用作缓冲区大小
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(39,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(51,39): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(82,25): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(85,23): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(173,9): warning C4101: “i”: 未引用的局部变量
+E:\C_Project\PracticeProject\PracticeProject\chapter_5.h(215,12): warning C4475: “printf”: 不可在格式说明符中将长度修饰符“ll”与类型字段字符“f”一起使用
+E:\C_Project\PracticeProject\PracticeProject\Chapter_6.h(233,58): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\C_Project\PracticeProject\PracticeProject\Chapter_6.h(228,15): warning C4101: “num”: 未引用的局部变量
+E:\C_Project\PracticeProject\PracticeProject\Chapter_6.h(341,19): warning C4018: “<”: 有符号/无符号不匹配
+E:\C_Project\PracticeProject\PracticeProject\Chapter_6.h(344,19): warning C4018: “<”: 有符号/无符号不匹配
+  PracticeProject.vcxproj -> E:\C_Project\PracticeProject\Debug\PracticeProject.exe
